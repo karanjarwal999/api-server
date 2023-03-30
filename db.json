@@ -5,280 +5,320 @@
       "title":"Daydream Bouquet",
       "id":1,
       "rating":4,
-      "price":40
+      "price":40,
+      "color":"purple"
     },
     {
       "id":2,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/161132lx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Blooming Love",
       "rating":5,
-      "price":35
+      "price":35,
+      "color":"red"
     },
     {
       "id":3,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191112xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Fields of Europe Romance",
       "rating":4.5,
-      "price":30
+      "price":30,
+      "color":"pink"
     },
     {
       "id":4,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191113dxx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"ropee flowers",
       "rating":4,
-      "price":37
+      "price":37,
+      "color":"white,red"
     },
     {
       "id":5,
       "img":"https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/191173xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Lovely Lavender Medley",
       "rating":5,
-      "price":19
+      "price":19,
+      "color":"white,purple"
     },
     {
       "id":6,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/90926mv24ch31x.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Two Dozen Red Roses",
       "rating":3,
-      "price":25
+      "price":25,
+      "color":"red"
     },
     {
       "id":7,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/90926mv24ch31x.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Two Dozen Red Roses",
       "rating":2,
-      "price":27
+      "price":27,
+      "color":"red"
     },
     {
       "id":8,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191167xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Floral Embrace",
       "rating":1,
-      "price":12
+      "price":12,
+      "color":"yellow"
     },
     {
       "id":9,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/100547sbdv3ch29x.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
       "title":"Magnificent Pink Rose & Lily Bouquet",
       "rating":4,
-      "price":39
+      "price":39,
+      "color":"pink"
     },
     {
       "id":10,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/183062xlx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Simply Pink™ Bouquet",
       "rating":4,
-      "price":30
+      "price":30,
+      "color":"pink"
     },
     {
       "id":11,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191244xlx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Always On My Mind™ Flower",
       "rating":5,
-      "price":38
+      "price":38,
+      "color":"pink"
     },
     {
       "id":12,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/176433xlx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Vibrant Floral Medley",
       "rating":4,
-      "price":33
+      "price":33,
+      "color":"orange"
     },
     {
       "id":13,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/92930srdv4ch31x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Stunning Red Rose & Calla Lily Bouquet",
       "rating":3,
-      "price":28
+      "price":28,
+      "color":"red"
     },
     {
       "id":14,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191248lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Victorian Romance™",
       "rating":2,
-      "price":19
+      "price":19,
+      "color":"pink"
     },
     {
       "id":15,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191308lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Sorbet Roses",
       "rating":4,
-      "price":24
+      "price":24,
+      "color":"pink"
     },
     {
       "id":16,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191243x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Assorted Roses & Peruvian Lilies",
       "rating":5,
-      "price":37
+      "price":37,
+      "color":"pink white"
     },
     {
       "id":17,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/144754mpkcv2ws4x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Love Pup™",
       "rating":5,
-      "price":66
+      "price":66,
+      "color":"pink"
     },
     {
       "id":18,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/100550mprsv1ch29x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Tel Posy™ Bouquet",
       "rating":4,
-      "price":90
+      "price":90,
+      "color":"purple yellow"
     },
     {
       "id":19,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/90926srdhv1ch31x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Bastel uquet",
       "rating":5,
-      "price":70
+      "price":70,
+      "color":"red"
     },
     {
       "id":20,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191179xlx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Pastel Posy™ Bouquet",
       "rating":5,
-      "price":76
+      "price":76,
+      "color":"white"
     },
     {
       "id":21,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191310lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Floral Treasures™ Bouquet",
       "rating":5,
-      "price":38
+      "price":38,
+      "color":"pink"
     },
     {
       "id":22,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/90577mprsv1sc9x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Good Day™ Bouquet",
       "rating":5,
-      "price":64
+      "price":64,
+      "color":"purple yellow"
     },
     {
       "id":23,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191309lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Spring Sensation™t",
       "rating":4,
-      "price":83
+      "price":83,
+      "color":"pink yellow"
     },
     {
       "id":24,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/179057x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Assorted Tulip Bouquet",
       "rating":5,
-      "price":67
+      "price":67,
+      "color":"yellow"
     },
     {
       "id":25,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/179358lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Spring Sentiment™ Bouquet",
       "rating":5,
-      "price":51
+      "price":51,
+      "color":"pink"
     },
     {
       "id":26,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/156390lpkx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Spring Sensation",
       "rating":4,
-      "price":34
+      "price":34,
+      "color":"pink"
     },
     {
       "id":27,
       "img":"https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/146802mbhv1x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"31 Days of Kind Notes",
       "rating":5,
-      "price":44
+      "price":44,
+      "color":"pink"
     },
     {
       "id":28,
       "img":"https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/18999ln2x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Sweet Heart BambooPassport",
       "rating":2,
-      "price":63
+      "price":63,
+      "color":"green"
     },
     {
       "id":29,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/177944sx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Exotic Breeze",
       "rating":5,
-      "price":69
+      "price":69,
+      "color":"red"
     },
     {
       "id":30,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191309lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Magnificent Roses&reg",
       "rating":1,
-      "price":11
+      "price":11,
+      "color":"yellow"
     },
     {
       "id":31,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/90577mprsv1sc9x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Spring Sensation",
       "rating":4,
-      "price":38
+      "price":38,
+      "color":"purple yellow"
     },
     {
       "id":32,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191310lx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"31 Days of Kind Notes",
       "rating":5,
-      "price":47
+      "price":47,
+      "color":"pink"
     },
     {
       "id":33,
       "img":"https://cdn4.fruitbouquets.com/wcsstore/Flowers/images/catalog/193273lvx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Sweet Heart BambooPassport",
       "rating":2,
-      "price":6
+      "price":6,
+      "color":"yellow"
     },
     {
       "id":34,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/90786stv4ch29x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Exotic Breeze",
       "rating":5,
-      "price":14
+      "price":14,
+      "color":"purple"
     },
     {
       "id":35,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/91158mmmj2sc9x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Magnificent Roses&reg",
       "rating":4,
-      "price":17
+      "price":17,
+      "color":"pink white"
     },
     {
       "id":36,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/101980lycspx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Spring Sensation",
       "rating":4,
-      "price":18
+      "price":18,
+      "color":"pink"
     },
     {
       "id":37,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/101189lgcx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"31 Days of Kind Notes",
       "rating":5,
-      "price":41
+      "price":41,
+      "color":"yellow"
     },
     {
       "id":38,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/182515sx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Sweet Heart BambooPassport",
       "rating":5,
-      "price":60
+      "price":60,
+      "color":"yellow"
     },
     {
       "id":39,
       "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/107308mpkcv2ws4x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Exotic Breeze",
       "rating":3,
-      "price":15
+      "price":15,
+      "color":"pink"
     },
     {
       "id":40,
       "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/101827lnscx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
       "title":"Magnificent Roses&reg",
       "rating":1,
-      "price":19
+      "price":19,
+      "color":"pink yellow"
     }
 
   ],
