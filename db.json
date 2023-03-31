@@ -322,6 +322,74 @@
     }
 
   ],
+  "10flowers":[
+    {
+      "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191168xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "title":"Daydream Bouquet",
+      "id":1,
+      "rating":4,
+      "price":40,
+      "color":"purple"
+    },
+    {
+      "id":3,
+      "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191112xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "title":"Fields of Europe Romance",
+      "rating":4.5,
+      "price":30,
+      "color":"pink"
+    },
+    {
+      "id":4,
+      "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191113dxx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "title":"ropee flowers",
+      "rating":4,
+      "price":37,
+      "color":"white,red"
+    },
+    {
+      "id":5,
+      "img":"https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/191173xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "title":"Lovely Lavender Medley",
+      "rating":5,
+      "price":19,
+      "color":"white,purple"
+    },
+    {
+      "id":8,
+      "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191167xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium}",
+      "title":"Floral Embrace",
+      "rating":1,
+      "price":12,
+      "color":"yellow"
+    },
+    {
+      "id":28,
+      "img":"https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/18999ln2x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
+      "title":"Sweet Heart BambooPassport",
+      "rating":2,
+      "price":63,
+      "color":"green"
+    },
+    {
+      "id":26,
+      "img":"https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/156390lpkx.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
+      "title":"Spring Sensation",
+      "rating":4,
+      "price":34,
+      "color":"pink"
+    },
+    {
+      "id":16,
+      "img":"https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/191243x.jpg?height=456&width=418&sharpen=a0.5,r1,t1&quality=80&auto=webp&optimize={medium}",
+      "title":"Assorted Roses & Peruvian Lilies",
+      "rating":5,
+      "price":37,
+      "color":"pink white"
+    }
+    
+
+  ],
   "cats": [
     {
       "id": 1,
